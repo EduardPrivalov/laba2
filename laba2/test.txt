@@ -1,0 +1,12 @@
+fd vb fdb se
+b ds
+fb 
+sd b
+ S
+ TH 
+ SDB 
+ DFB 
+ AD BSFB SGFN
+ XGF
+  SGF NSGFX
+   CVG V 
